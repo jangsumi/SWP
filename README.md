@@ -1,2 +1,2 @@
 jang sumi	20193216
-Kookmin UNIV. Software
+Kookmin UNIV. SOFTWARE
